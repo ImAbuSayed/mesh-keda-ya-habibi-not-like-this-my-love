@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Mesh Keda Ya Habibi – Not like this, my love |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 30, 2026 |
+| Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mesh-keda-ya-habibi-not-like-this-my-love/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> مش كدا يا حبيبي لا تروح بعيد
+> نار الشوق بقلبي كل ليلة تزيد
+> عيونك سحر و هواك هو الدليل
+> في ظلام الليل انت النور الوحيد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
